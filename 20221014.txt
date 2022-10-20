@@ -6,4 +6,4 @@ Google公司于8月17日左右发布了具有自主意识的人工智能机器�
 
 20221020  15：28 新闻标题：有事您说话！谷歌机器人“吃了”大语言模型后，学会自学和思考了。
 在实验室里表现的还很完美，出了实验室脑容量就不够用了，做汉堡的时候会吧番茄酱的瓶子夹进汉堡。
-新闻标题：Quantum Leap: "The big bang of quantum computing will come in this decade"需要科学上网工具来阅读这篇文章。
+新闻标题：Quantum Leap: "The big bang of quantum computing will come in this decade"需要 科学上网工具 和 Google翻译 来阅读这篇文章。
