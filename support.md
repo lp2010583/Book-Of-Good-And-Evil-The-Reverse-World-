@@ -32,13 +32,13 @@
 ## ☕ 支持方式
 
 你可以根据自身情况，选择方便的方式支持作者：
-![alipay](https://github.com/user-attachments/assets/ed3e5304-3589-4808-a6c8-9682f4c11db4)
-![wechat](https://github.com/user-attachments/assets/73b038ee-018e-47f2-ac67-2ab35af6f368)
 
 <!-- 在这里插入收款码图片 -->
 
-<img src="/wechat.png" width="220">
-<img src="/alipay.png" width="220">
+<img src="/![wechat](https://github.com/user-attachments/assets/3594216a-a0e7-4336-a7b4-3e19b70acdbe)
+" width="220">
+<img src="/![alipay](https://github.com/user-attachments/assets/b59f8869-b2a6-45db-a4c8-7447b037252b)
+" width="220">
 
 ---
 
