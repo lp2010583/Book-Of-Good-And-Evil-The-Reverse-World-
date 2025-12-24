@@ -30,8 +30,7 @@
 
 ## 📖 在线阅读
 
-👉 [开始阅读本书](/Book-Of-Good-And-Evil-The-Reverse-World-
-/)
+👉 [开始阅读本书](/Book-Of-Good-And-Evil-The-Reverse-World-/)
 
 （如页面内目录存在，请按章节顺序阅读）
 
