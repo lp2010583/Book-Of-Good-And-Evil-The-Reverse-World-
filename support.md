@@ -32,6 +32,8 @@
 ## ☕ 支持方式
 
 你可以根据自身情况，选择方便的方式支持作者：
+![alipay](https://github.com/user-attachments/assets/ed3e5304-3589-4808-a6c8-9682f4c11db4)
+![wechat](https://github.com/user-attachments/assets/73b038ee-018e-47f2-ac67-2ab35af6f368)
 
 <!-- 在这里插入收款码图片 -->
 
