@@ -34,8 +34,8 @@
 你可以根据自身情况，选择方便的方式支持作者：
 
 <!-- 在这里插入收款码图片 -->
-![IMG_0477](https://github.com/user-attachments/assets/22f5ee05-81dc-49dc-a109-c863fb09b993)
-![IMG_0476](https://github.com/user-attachments/assets/cee279ad-7a20-49e4-a229-1a46d2bd5d5b)
+
+
 
 ## ☕ Support Options
 
