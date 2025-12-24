@@ -30,7 +30,7 @@
 
 ## 📖 在线阅读
 
-👉 [开始阅读本书](./)
+👉 [开始阅读本书](https://github.com/lp2010583/Book-Of-Good-And-Evil-The-Reverse-World-/)
 
 ## ❤️ 支持作者（自愿）
 
