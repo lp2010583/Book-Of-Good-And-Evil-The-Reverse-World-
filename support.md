@@ -37,6 +37,23 @@
 ![IMG_0477](https://github.com/user-attachments/assets/22f5ee05-81dc-49dc-a109-c863fb09b993)
 ![IMG_0476](https://github.com/user-attachments/assets/cee279ad-7a20-49e4-a229-1a46d2bd5d5b)
 
+## ☕ Support Options
+
+If you would like to support this work, you may choose one of the following options:
+
+### 🌍 International readers
+
+- 👉 Support via PayPal  
+  https://paypal.me/lp2010583
+
+- 👉 Support via Wise  
+  https://https://wise.com/pay/me/pingl594
+
+---
+
+All support is voluntary and does not constitute a commercial transaction.
+
+
 ---
 
 ## 🙏 感谢
