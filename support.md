@@ -34,10 +34,8 @@
 你可以根据自身情况，选择方便的方式支持作者：
 
 <!-- 在这里插入收款码图片 -->
-
-<img src="/wechat.png" width="220">
-<img src="/alipay.png" width="220">
-
+![alipay](https://github.com/user-attachments/assets/0bce7e6b-c3b5-4a66-b954-55a3545195f7)
+![wechat](https://github.com/user-attachments/assets/c8ac7801-d3d7-4e5d-a6b9-9070924a7e53)
 ---
 
 ## 🙏 感谢
