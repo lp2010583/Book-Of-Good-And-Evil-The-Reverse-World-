@@ -48,7 +48,7 @@ If you would like to support this work, you may choose one of the following opti
   https://paypal.me/lp2010583
 
 - 👉 Support via Wise  
-  https://https://wise.com/pay/me/pingl594
+  https://wise.com/pay/me/pingl594
 
 ---
 
