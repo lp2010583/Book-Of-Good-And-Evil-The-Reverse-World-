@@ -35,9 +35,6 @@
 
 <!-- 在这里插入收款码图片 -->
 
-![wechat](https://github.com/user-attachments/assets/3594216a-a0e7-4336-a7b4-3e19b70acdbe)
-![alipay](https://github.com/user-attachments/assets/b59f8869-b2a6-45db-a4c8-7447b037252b)
-
 <img src="/wechat.png" width="220">
 <img src="/alipay.png" width="220">
 
